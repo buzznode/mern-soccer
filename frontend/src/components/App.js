@@ -38,8 +38,8 @@ class App extends Component {
       <div className="container-fluid">
         <div className="row">
           <nav>
-            <div className="nav-wrapper blue-grey darken-3">
-              <a href="/" class="brand-logo">
+            <div className="nav-wrapper blue darken-3">
+              <a href="/" className="brand-logo">
                 Soccer Management
               </a>
             </div>
